@@ -39,7 +39,7 @@
         "network": "xhttp",
         "security": "none",
         "xhttpSettings": {
-          "mode": "stream-up",
+          "mode": "packet-up",
           "path": "/",
           "maxUploadSize": 1000000,
           "maxConcurrentUploads": 10
